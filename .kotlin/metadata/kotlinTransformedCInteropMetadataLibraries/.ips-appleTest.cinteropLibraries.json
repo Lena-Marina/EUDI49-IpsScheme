@@ -1,0 +1,27 @@
+[
+  {
+    "moduleId": "org.jetbrains.kotlinx:atomicfu:0.29.0",
+    "file": "C:\\Users\\lenag\\OneDrive\\Desktop\\FH_Technikum\\INNO\\EUDI49-IpsSceme\\.kotlin\\metadata\\kotlinTransformedCInteropMetadataLibraries\\org.jetbrains.kotlinx-atomicfu-0.29.0-iosMain-cinterop\\org.jetbrains.kotlinx_atomicfu-cinterop-interop-kCq7Ng.klib",
+    "sourceSetName": "iosMain"
+  },
+  {
+    "moduleId": "at.asitplus.signum:supreme:0.13.0",
+    "file": "C:\\Users\\lenag\\OneDrive\\Desktop\\FH_Technikum\\INNO\\EUDI49-IpsSceme\\.kotlin\\metadata\\kotlinTransformedCInteropMetadataLibraries\\at.asitplus.signum-supreme-0.13.0-iosMain-cinterop\\at.asitplus.signum_supreme-cinterop-cinterop-vEjizQ.klib",
+    "sourceSetName": "iosMain"
+  },
+  {
+    "moduleId": "io.ktor:ktor-utils:3.3.3",
+    "file": "C:\\Users\\lenag\\OneDrive\\Desktop\\FH_Technikum\\INNO\\EUDI49-IpsSceme\\.kotlin\\metadata\\kotlinTransformedCInteropMetadataLibraries\\io.ktor-ktor-utils-3.3.3-iosMain-cinterop\\io.ktor_ktor-utils-cinterop-threadUtils-DzKCCw.klib",
+    "sourceSetName": "iosMain"
+  },
+  {
+    "moduleId": "org.kotlincrypto.random:crypto-rand:0.6.0",
+    "file": "C:\\Users\\lenag\\OneDrive\\Desktop\\FH_Technikum\\INNO\\EUDI49-IpsSceme\\.kotlin\\metadata\\kotlinTransformedCInteropMetadataLibraries\\org.kotlincrypto.random-crypto-rand-0.6.0-iosMain-cinterop\\org.kotlincrypto.random_crypto-rand-cinterop-crypto_rand_sys-fPb4BA.klib",
+    "sourceSetName": "iosMain"
+  },
+  {
+    "moduleId": "io.ktor:ktor-io:3.3.3",
+    "file": "C:\\Users\\lenag\\OneDrive\\Desktop\\FH_Technikum\\INNO\\EUDI49-IpsSceme\\.kotlin\\metadata\\kotlinTransformedCInteropMetadataLibraries\\io.ktor-ktor-io-3.3.3-iosMain-cinterop\\io.ktor_ktor-io-cinterop-mutex-biGPYQ.klib",
+    "sourceSetName": "iosMain"
+  }
+]
