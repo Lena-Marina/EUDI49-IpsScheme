@@ -1,4 +1,4 @@
-# Health ID Attestation
+# International Patient Summary (IPS)
 
 <div align="center">
 
@@ -15,38 +15,9 @@
 Data classes representing a Health ID Attestation, as a SD-JWT credential, with the help
 of [VC-K](https://github.com/a-sit-plus/vck).
 
-Be sure to call `at.asitplus.wallet.healthid.Initializer.initWithVCK` first thing in your application.
+Be sure to call `at.asitplus.wallet.ips.Initializer.initWithVCK` first thing in your application.
 
 ## Changelog
-
-Release 2.3.0
- - Update to VC-K 5.12.0
- - Kotlin 2.3.0
-
-Release 2.2.0
-- Update to VC-K 5.8.0
-- Kotlin 2.2.0
-- kotlinx.datetime 0.7.1
-
-Release 2.1.0:
-- Remove deprecated elements for `EPrescription`
-
-Release 2.0.0:
-- Rebrand as `HealthID` to accommodate changes to attestation rulebook as of 2025-02-23
-- Update to VC-K 5.4.2
-
-Release 1.1.1:
-- Update to VC-K 5.2.1
-- Kotlin 2.1.0
-
-Release 1.1.0:
-- Update to VC-K 5.0.0
-
-Release 1.0.1:
-- Update to VC-K 4.1.0
-
-Release 1.0.0:
-- Initial release, covering OTTs, with `vclib` 4.0.0
 
 
 <br>
