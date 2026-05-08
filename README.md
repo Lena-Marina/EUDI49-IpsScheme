@@ -12,7 +12,7 @@
 
 </div>
 
-Data classes representing a Health ID Attestation, as a SD-JWT credential, with the help
+Data classes representing an IPS, as a SD-JWT credential, with the help
 of [VC-K](https://github.com/a-sit-plus/vck).
 
 Be sure to call `at.asitplus.wallet.ips.Initializer.initWithVCK` first thing in your application.
