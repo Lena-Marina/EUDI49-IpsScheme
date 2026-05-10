@@ -1,1 +1,0 @@
-C:\Users\lenag\.konan\kotlin-native-prebuilt-windows-x86_64-2.3.0

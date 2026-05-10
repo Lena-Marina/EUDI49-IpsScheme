@@ -1,0 +1,24 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Kotlin
+*.class
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+.gradle/
+build/
+**/build/
+.idea/
+*.iml

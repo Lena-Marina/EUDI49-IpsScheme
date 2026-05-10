@@ -7,6 +7,7 @@ plugins {
     alias(libs.plugins.kotlin.multiplatform)
     alias(libs.plugins.kotlin.serialization)
     alias(libs.plugins.asitplus.gradle.conventions)
+    id("maven-publish")
     id("org.jetbrains.dokka")
     id("signing")
     alias(libs.plugins.testballoon)
@@ -41,7 +42,7 @@ publishing {
             pom {
                 name.set("International Patient Summary (IPS)")
                 description.set("Use data representing IPS as a SD-JWT credential, using VC-K")
-                url.set("https://github.com/a-sit-plus/healthid/") //ToDo: hier muss mein Repo rein
+                url.set("https://github.com/Lena-Marina/EUDI49-IpsScheme.git") //hier ist nun unser Repo verlinkt statt: https://github.com/a-sit-plus/healthid/
                 licenses {
                     license {
                         name.set("The Apache License, Version 2.0")
@@ -51,14 +52,14 @@ publishing {
                 developers {
                     developer {
                         id.set("nodh")
-                        name.set("Christian Kollmann")
-                        email.set("christian.kollmann@a-sit.at")
+                        name.set("EUDI49-Gruppe")
+                        email.set("we have non as a team")
                     }
                 }
                 scm {
-                    connection.set("scm:git:git@github.com:a-sit-plus/healthid.git")
-                    developerConnection.set("scm:git:git@github.com:a-sit-plus/healthid.git")
-                    url.set("https://github.com/a-sit-plus/healthid/")
+                    connection.set("scm:git:git@github.com:Lena-Marina/EUDI49-IpsScheme.git")
+                    developerConnection.set("scm:git:git@github.com:Lena-Marina/EUDI49-IpsScheme.git")
+                    url.set("https://github.com/Lena-Marina/EUDI49-IpsScheme")
                 }
             }
         }
